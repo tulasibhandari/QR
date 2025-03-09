@@ -1,0 +1,6 @@
+#images files
+*.png
+*.jpg
+
+#virtual enviroments
+my_env
